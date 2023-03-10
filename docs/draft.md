@@ -3,6 +3,8 @@
 #### March, 2023
 - Created a `GitLab CI` template for generating `Allure` report using its `CLI` - [allure-cli](https://gitlab.com/ci-templet/allure-cli) 
 - Created a `GitLab CI` template for transforming `Allure` report into a single `HTML` page re-using an existing custom python script - [allure-combine](https://gitlab.com/ci-templet/allure-combine)
+- Started to write an `OpenApi 3.0.1` specification file for `TestRail API` in order to use a codegen tool and generate client libraries  
+- Created a `GitLab CI` template for cloning another repository, committing changes and pushing code.  
 
 #### February, 2023
 - :blue_book: Learning `TypeScript`
