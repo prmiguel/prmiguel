@@ -18,6 +18,11 @@
 #### January, 2023
 - :blue_book: Learning `Serenity-JS`
 - :blue_book: Learning `Cyppres.io` v12
+- Gatling
+- K6
+- JMeter DSL
+- JMeter
+- Keycloak
 
 #### December, 2022
 
