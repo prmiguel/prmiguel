@@ -1,6 +1,11 @@
 # Tracking my experience
 
 #### March, 2023
+
+- Learning Angular
+- Research and implement a code to perform actions in parallel to the same web browser using multi-threading. https://github.com/prmiguel/prmiguel/labels/selenium
+- Auth0 simulator 
+
 - Deploy a local DB with data retrieved from snowflake and reduce test execution time
 - Create R package for interacting with TestRail API
 - Generate R code for TestRail API
