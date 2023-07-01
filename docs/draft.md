@@ -22,6 +22,8 @@
 - Serenity-JS tests results pushed in Azure DevOps
 
 
+- Help to develop an Angular application that integrates TestRail and Sealights.
+
 #### March, 2023
 
 - Learning Angular
