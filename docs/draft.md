@@ -1,5 +1,27 @@
 # Tracking my experience
 
+
+#### June, 2023
+- Learn terraform
+- Implement lambda functions with TS
+- Deploy Lambda -> SQS -> Lambda on local using Terraform and LocalStack just for testing porpuse.
+- Deploy Lambda -> SQS -> Lambda on AWS using Terraform.
+- Use SQS API to sent/receive messages using TS
+- 
+
+- Use Mode analytics API and create and API client in R called RModeAnalytics 
+- Use Sealights API
+
+- NestJs
+- Angular
+
+- asp.net
+- Recall C# sintax
+- EF
+- Cake
+- Serenity-JS tests results pushed in Azure DevOps
+
+
 #### March, 2023
 
 - Learning Angular
