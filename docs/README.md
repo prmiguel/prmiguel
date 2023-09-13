@@ -10,7 +10,7 @@ I'm a Test Automator.
 **Mobile Automation Test:** Appium, WebDriverIO <br>
 **API Automation Test:** Postman, RestAssured, RestSharp  <br>
 **Performance Test:** JMeter, Gatling <br>
-**Test Automation Frameworks:**  Serenity BDD, Selenide, CypressIO, WebdriverIO <br>
+**Test Automation Frameworks:**  Serenity BDD, Selenide, CypressIO, WebdriverIO, TestComplete <br>
 **Operating Systems:** Windows, MacOS, Arch LInux <br>
 **Database Engines:** MSSQL Server, Oracle, Postgres. MySQL, Mongo, App.Mode <br>
 **CI Tools:** TFS Server, GitLab CI, GitHub Actions, Jenkins <br>
