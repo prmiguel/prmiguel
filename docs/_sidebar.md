@@ -1,0 +1,6 @@
+* [Getting Started](/)
+* [Test](/)
+* [Projects](/)
+* [Test Automation Framework Templates](/)
+* [Training](/)
+* [Change Logs](/)
