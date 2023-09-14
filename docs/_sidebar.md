@@ -2,5 +2,5 @@
 * [Test](/)
 * [Projects](/)
 * [Test Automation Framework Templates](/)
-* [Training](/)
+* [Training](learning/run-puppeter-tests-with-dagger.md)
 * [Change Logs](/)
