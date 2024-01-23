@@ -1,4 +1,4 @@
-![](../dist/github-snake.svg)
+![](https://raw.githubusercontent.com/prmiguel/prmiguel/main/dist/github-snake.svg)
 
 # 👋 Hi, I’m Miguel
 I'm a Test Automator.
