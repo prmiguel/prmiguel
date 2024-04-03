@@ -11,3 +11,4 @@
 - [sshwifty](https://blog.51sec.org/2023/05/5-min-docker-free-sshwifty-web-ssh.html?expand_article=1)
 - [ssh-web-console](https://github.com/genshen/ssh-web-console)
 - [bastillion](https://github.com/bastillion-io/Bastillion)
+- [web-terminal](https://github.com/raonigabriel/web-terminal)
