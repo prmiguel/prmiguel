@@ -12,3 +12,4 @@
 - [ssh-web-console](https://github.com/genshen/ssh-web-console)
 - [bastillion](https://github.com/bastillion-io/Bastillion)
 - [web-terminal](https://github.com/raonigabriel/web-terminal)
+- [xtermjs](https://xtermjs.org/)
