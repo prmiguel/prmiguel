@@ -17,17 +17,23 @@ I'm a Test Automator.
 **API Automation Test:** Postman, RestAssured, RestSharp  <br>
 **Performance Test:** JMeter, Gatling <br>
 **Test Automation Frameworks:**  Serenity BDD, Selenide, CypressIO, WebdriverIO <br>
-**Operating Systems:** Windows, MacOS, Arch LInux <br>
+**Operating Systems:** Windows, MacOS, Arch Linux <br>
 **Database Engines:** MSSQL Server, Oracle, Postgres. MySQL, Mongo, App.Mode <br>
-**CI Tools:** TFS Server, GitLab CI, GitHub Actions, Jenkins <br>
+**CI Tools:** TFS Server, GitLab CI, GitHub Actions, Jenkins, Azure DevOps <br>
 **Cloud Platforms:** Azure, AWS <br>
 **Hypervisor Tools:** VMWare Workstation, VirtualBox, Hyper-V, KVM, Multipass <br>
 **Containers:** Docker, Podman<br>
 **Orquestrators:** Docker Compose, Kubernetes<br>
 **DevOps Tools:** Vagrant, MiniKube <br>
 
-<img src="https://github.com/prmiguel/prmiguel/assets/25396267/7a197826-b776-4ffd-944b-8bf36f0f12c0" width="42"/> <img src="https://github.com/prmiguel/prmiguel/assets/25396267/9e16c9fb-5745-4fe0-b133-def4b311c490" width="42"/> <img src="https://github.com/prmiguel/prmiguel/assets/25396267/ef53d1d6-fea8-44e2-9d16-83cdac3829b4" width="42"/> <img src="https://github.com/prmiguel/prmiguel/assets/25396267/f0bdecd4-319e-4975-8d37-a279ea2c476f" width="42"/> <img src="https://github.com/prmiguel/prmiguel/assets/25396267/5fd9aa59-ceb6-46df-a6e0-94c96e913b72" width="42"/> 
+<img src="https://github.com/prmiguel/prmiguel/assets/25396267/7a197826-b776-4ffd-944b-8bf36f0f12c0" width="42"/> 
+<img src="https://github.com/prmiguel/prmiguel/assets/25396267/9e16c9fb-5745-4fe0-b133-def4b311c490" width="42"/> 
+<img src="https://github.com/prmiguel/prmiguel/assets/25396267/ef53d1d6-fea8-44e2-9d16-83cdac3829b4" width="42"/> 
+<img src="https://github.com/prmiguel/prmiguel/assets/25396267/f0bdecd4-319e-4975-8d37-a279ea2c476f" width="42"/> 
+<img src="https://github.com/prmiguel/prmiguel/assets/25396267/5fd9aa59-ceb6-46df-a6e0-94c96e913b72" width="42"/> 
 <img src="https://github.com/prmiguel/prmiguel/assets/25396267/02b0bc59-ac61-4e14-923e-8a966133ca45" width="42"/> 
 <img src="https://github.com/prmiguel/prmiguel/assets/25396267/cb8dd449-4ab5-4c53-8b9d-4ee19b69fa63" width="42"/> 
 <img src="https://github.com/prmiguel/prmiguel/assets/25396267/61ceb429-0956-4c29-be9e-bc94c5d4adcd" width="42"/> 
 <img src="https://github.com/prmiguel/prmiguel/assets/25396267/22fe2138-e172-42b1-a511-514fb6937cdb" width="42"/> 
+<img src="https://github.com/prmiguel/prmiguel/assets/25396267/368ca1ce-b517-4f31-85e5-4be97d31252d" width="42"/>
+
