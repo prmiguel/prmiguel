@@ -14,7 +14,7 @@ I'm a Test Automator.
 **Test Case Management Tools:** Test Manager of TFS, TestRail, BDD <br>
 **Web Automation Test:** Selenium WebDriver, Cypress, WebDriverIO, Playwright <br>
 **Mobile Automation Test:** Appium, WebDriverIO <br>
-**API Automation Test:** Postman, RestAssured, RestSharp  <br>
+**API Automation Test:** Postman, RestAssured, RestSharp Assertible, httpyac <br>
 **Performance Test:** JMeter, Gatling <br>
 **Test Automation Frameworks:**  Serenity BDD, Selenide, CypressIO, WebdriverIO <br>
 **Operating Systems:** Windows, MacOS, Arch Linux <br>
