@@ -3,9 +3,8 @@ name: Projects-MD
 on:
   push:
     branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-
+    paths:
+      - projects.json
   workflow_dispatch:
 
 jobs:
@@ -18,5 +17,5 @@ jobs:
         run: source bin/generate-projects
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Update files
+          commit_message: Update Projects
           file_pattern: 'projects.md'
