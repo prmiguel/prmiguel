@@ -37,5 +37,26 @@
       "http-requests", 
       "mitmproxy"
     ]
+  },
+  {
+    "name": "appium-inspector-desktop",
+    "repo": "https://github.com/prmiguel/appium-inspector-desktop",
+    "details": "Appium Inspector Desktop App in Docker",
+    "image": "cbf3832a-9e5a-4482-981d-186e0b9bba44",
+    "tech": ["android", "docker", "container", "desktop", "appium", "kasm", "kasm-web", "appium-inspector"]
+  },
+  {
+    "name": "appium-inspector-web",
+    "repo": "https://github.com/prmiguel/appium-inspector-web",
+    "details": "Appium Inspector Web App in Docker",
+    "image": "6f251816-eddc-485a-baad-e095e95b545e",
+    "tech": ["android", "docker", "web", "container", "appium", "appium-inspector"]
+  },
+  {
+    "name": "kode-appium-android",
+    "repo": "https://github.com/prmiguel/kode-appium-android",
+    "details": "Appium stack ready to develop Android mobile tests inside containers",
+    "image": "",
+    "tech": ["android", "docker", "docker-compose", "vscode container", "android-emulator", "appium", "appium-server", "appium-inspector"]
   }
 ]
