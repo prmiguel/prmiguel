@@ -19,5 +19,23 @@
     "details": "",
     "image": "81a5c898-28fa-4ebc-ae51-fce1a4f11298",
     "tech": ["Ansible", "Windows 11", "SSH", "Selenium Server"]
+  },
+  {
+    "name": "mitm-proxy",
+    "repo": "https://github.com/prmiguel/mitm-proxy",
+    "details": "",
+    "image": "8276a4be-0047-4af6-81f4-d38bb1868b87",
+    "tech": [
+      "python", 
+      "docker", 
+      "web", 
+      "docker-compose", 
+      "containers", 
+      "proxy", 
+      "vscode", 
+      "mitm", 
+      "http-requests", 
+      "mitmproxy"
+    ]
   }
 ]
