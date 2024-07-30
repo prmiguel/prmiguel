@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+file="projects.md"
+echo "# Projects" > $file
+echo "" >> $file
+echo "| Repo | Details | Demo | Tech |" >> $file
+echo "| -----|---------|------|------|" >> $file
+cat projects.json | jq -r ".[]|\"|[\(.name)](\(.repo))|\(.details)|<img src='https://prmiguel.github.io/media/\(.image).gif' width='300'/>|\`\(.tech|join(\"\`, \`\"))\`|\"" >> $file
