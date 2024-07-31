@@ -26,15 +26,15 @@
     "details": "",
     "image": "8276a4be-0047-4af6-81f4-d38bb1868b87",
     "tech": [
-      "python", 
-      "docker", 
-      "web", 
-      "docker-compose", 
-      "containers", 
-      "proxy", 
-      "vscode", 
-      "mitm", 
-      "http-requests", 
+      "python",
+      "docker",
+      "web",
+      "docker-compose",
+      "containers",
+      "proxy",
+      "vscode",
+      "mitm",
+      "http-requests",
       "mitmproxy"
     ]
   },
@@ -43,21 +43,46 @@
     "repo": "https://github.com/prmiguel/appium-inspector-desktop",
     "details": "Appium Inspector Desktop App in Docker",
     "image": "cbf3832a-9e5a-4482-981d-186e0b9bba44",
-    "tech": ["android", "docker", "container", "desktop", "appium", "kasm", "kasm-web", "appium-inspector"]
+    "tech": [
+      "android",
+      "docker",
+      "container",
+      "desktop",
+      "appium",
+      "kasm",
+      "kasm-web",
+      "appium-inspector"
+    ]
   },
   {
     "name": "appium-inspector-web",
     "repo": "https://github.com/prmiguel/appium-inspector-web",
     "details": "Appium Inspector Web App in Docker",
     "image": "6f251816-eddc-485a-baad-e095e95b545e",
-    "tech": ["android", "docker", "web", "container", "appium", "appium-inspector"]
+    "tech": [
+      "android",
+      "docker",
+      "web",
+      "container",
+      "appium",
+      "appium-inspector"
+    ]
   },
   {
     "name": "kode-appium-android",
     "repo": "https://github.com/prmiguel/kode-appium-android",
     "details": "Appium stack ready to develop Android mobile tests inside containers",
     "image": "",
-    "tech": ["android", "docker", "docker-compose", "vscode container", "android-emulator", "appium", "appium-server", "appium-inspector"]
+    "tech": [
+      "android",
+      "docker",
+      "docker-compose",
+      "vscode container",
+      "android-emulator",
+      "appium",
+      "appium-server",
+      "appium-inspector"
+    ]
   },
   {
     "name": "jenkins-ci-infra",
@@ -65,9 +90,31 @@
     "details": "Automate deployment of Jenkins CI Infrastrucure for basic API service",
     "image": "7bce02bd-d2aa-4123-8f65-b2196dc8ab5a",
     "tech": [
-      "docker", "jenkins", "unit-testing", "docker-compose", "containers", "nexus", 
-      "sonarqube", "postman", "reports", "node-js", "api-testing", "newman", "dind",
-      "jenkins-pipeline", "sonar-cli", "gitpod", "sonarqube-cli-scanner", "nexus-registry"
+      "docker",
+      "jenkins",
+      "unit-testing",
+      "docker-compose",
+      "containers",
+      "nexus",
+      "sonarqube",
+      "postman",
+      "reports",
+      "node-js",
+      "api-testing",
+      "newman",
+      "dind",
+      "jenkins-pipeline",
+      "sonar-cli",
+      "gitpod",
+      "sonarqube-cli-scanner",
+      "nexus-registry"
     ]
+  },
+  {
+    "name": "gitpod-selenium",
+    "repo": "https://github.com/prmiguel/gitpod-selenium",
+    "details": "",
+    "image": "7bf2ce42-5a13-431d-a97b-4290c0dd6696",
+    "tech": ["selenium", "vnc", "selenium-standalone", "gitpod"]
   }
 ]
