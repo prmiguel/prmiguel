@@ -5,6 +5,7 @@ on:
     branches: [ "main" ]
     paths:
       - projects.json
+      - bin/generate-projects
   workflow_dispatch:
 
 jobs:
