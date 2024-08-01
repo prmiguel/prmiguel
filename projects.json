@@ -116,5 +116,79 @@
     "details": "",
     "image": "7bf2ce42-5a13-431d-a97b-4290c0dd6696",
     "tech": ["selenium", "vnc", "selenium-standalone", "gitpod"]
+  },
+  {
+    "name": "test-win-calc",
+    "repo": "https://dev.azure.com/prmiguel/_git/test-calc",
+    "details": "Test Complete with Gherkin",
+    "image": "1608c8b5-5628-41ca-ad10-8fafcd057f3a",
+    "tech": [
+      "Test Complete",
+      "JS",
+      "Calculator",
+      "Windows 10",
+      "BDD",
+      "Gherkin"
+    ]
+  },
+  {
+    "name": "test-win-calc",
+    "repo": "https://dev.azure.com/prmiguel/_git/test-calc",
+    "details": "Reports generated after running automation tests",
+    "image": "32d0ac8b-6628-43eb-8e36-ae50155f5abb",
+    "tech": [
+      "Test Complete",
+      "Calculator",
+      "Azure Pipeline",
+      "Windows 10",
+      "Test Agent",
+      "Test Execute",
+      "VSTest",
+      "Test Publisher",
+      "Allure Report",
+      "Test Complete Report"
+    ]
+  },
+  {
+    "name": "test-win-calc",
+    "repo": "https://dev.azure.com/prmiguel/_git/test-calc",
+    "details": "Run pipeline for running automation tests using Test Complete, Test Execute and VSTest",
+    "image": "aaf682ca-a4ae-425f-890a-782833cd4e7c",
+    "tech": [
+      "Test Complete",
+      "Calculator",
+      "Azure Pipeline",
+      "Windows 10",
+      "Test Agent",
+      "Test Execute",
+      "VSTest"
+    ]
+  },
+  {
+    "name": "test-win-calc",
+    "repo": "https://dev.azure.com/prmiguel/_git/test-calc",
+    "details": "Run pipeline for running automation tests using Test Complete and Test Execute",
+    "image": "e4996141-7f23-44ec-99f9-5aa43ae746d5",
+    "tech": [
+      "Test Complete",
+      "Calculator",
+      "Azure Pipeline",
+      "Windows 10",
+      "Test Agent",
+      "Test Execute"
+    ]
+  },
+  {
+    "name": "test-win-calc",
+    "repo": "https://dev.azure.com/prmiguel/_git/test-calc",
+    "details": "Run pipeline for running automation tests using Test Complete",
+    "image": "f97d9e0f-c3c5-4f24-b2b1-353679383868",
+    "tech": [
+      "Test Complete",
+      "Calculator",
+      "Azure Pipeline",
+      "Windows 10",
+      "Test Agent"
+    ]
   }
 ]
