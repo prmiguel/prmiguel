@@ -5,4 +5,4 @@ echo "# Projects" > $file
 echo "" >> $file
 echo "| Repo | Details | Demo | Tech |" >> $file
 echo "| -----|---------|------|------|" >> $file
-cat projects.json | jq -r ".[]|\"|[\(.name)](\(.repo))|\(.details)|[demo](https://prmiguel.github.io/media/\(.image).gif)|\`\(.tech|join(\"\`, \`\"))\`|\"" >> $file
+cat projects.json | jq -r ".[]|\"|[\(.name)](\(.repo))|\(.details)|[:video_camera:](https://prmiguel.github.io/media/\(.image).gif)|\`\(.tech|join(\"\`, \`\"))\`|\"" >> $file
