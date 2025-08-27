@@ -190,5 +190,17 @@
       "Windows 10",
       "Test Agent"
     ]
+  },
+  {
+    "name": "forgejo-workflow",
+    "repo": "https://github.com/prmiguel/todomvc-backend-playwright-dotnet-test",
+    "details": "",
+    "image": "29baaff1-d9a5-4a89-94ac-6245885038fc",
+    "tech": [
+      "Forgejo",
+      "Forgejo DinD Runner",
+      "Forgejo Workflow",
+      "Docker"
+    ]
   }
 ]
