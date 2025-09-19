@@ -202,5 +202,25 @@
       "Forgejo Workflow",
       "Docker"
     ]
+  },
+  {
+    "name": "calc-android-wdio-js-test",
+    "repo": "https://github.com/prmiguel/calc-android-wdio-js-test",
+    "details": "",
+    "image": "e5f77b56-5b64-4269-8696-4dd6f338c69c",
+    "tech": [
+      "wdio"
+    ]
+  },
+  {
+    "name": "kode-appium-android",
+    "repo": "https://github.com/prmiguel/kode-appium-android",
+    "details": "",
+    "image": "c487ced3-7339-4b62-8a5b-8b06180e6387",
+    "tech": [
+      "Appium",
+      "...",
+      "Docker"
+    ]
   }
 ]
